@@ -1,0 +1,19 @@
+
+{
+  "responses": {
+    "tea": "The college tea shop is open from 7AM to 9 PM.",
+    "ssd" :"SSD is open all time for students, call for any query.",
+    "library": "The library is open from 7 AM to 5PM.",
+    "admissions": "Admission office is now near SSD, open from 9AM to 5 PM",
+    "thanku":"You are welcome.",
+    "okay":"Anything more?",
+    "no":"Let me know if there is anything i can help you with."
+  },
+
+  "random_responses":[
+    "Sorry, I don't have an answer for that!",
+    "I'm still learning-bear with me!",
+    "I was programmed to say:'Good question!'",
+    "If only i had brain!"
+   ]
+}

@@ -1,0 +1,75 @@
+Bot: Hello, hi! My name is Shina. How can i help you today?
+User: bye!
+Bot: Goodbye, hi! It was wonderful talking to you!
+Bot: Hello, smriti! My name is Sara. How can i help you today?
+User: chocolate
+Bot: If only i had brain!
+User: the end
+Bot: r
+User: exit!
+Bot: Goodbye, smriti! It was wonderful talking to you!
+Bot: Hello, sneha! My name is Lata. How can i help you today?
+User: tea
+Bot: The college tea shop is open from 7AM to 9 PM.
+User: how was your day?
+Bot: Sorry, I don't have an answer for that!
+User: bye!
+Bot: Goodbye, sneha! It was wonderful talking to you!
+[2025-01-11 09:34] Bot: Hello, jij! My name is Josh. How can i help you today?
+[2025-01-11 09:34] User: tea
+[2025-01-11 09:34] Bot: The college tea shop is open from 7AM to 9 PM.
+[2025-01-11 09:34] User: bye
+[2025-01-11 09:34] Bot: Goodbye, jij! It was wonderful talking to you!
+[2025-01-11 09:50] Bot: Hello, Bhai! My name is Josh. How can i help you today?
+[2025-01-11 09:50] User: when will tea shop open?
+[2025-01-11 09:50] Bot: The college tea shop is open from 7AM to 9 PM.
+[2025-01-11 09:50] User: okay
+[2025-01-11 09:50] Bot: Anything more?
+[2025-01-11 09:50] User: no
+[2025-01-11 09:50] Bot: Let me know if there is anything i can help you with.
+[2025-01-11 09:50] User: bye
+[2025-01-11 09:50] Bot: Goodbye, Bhai! It was wonderful talking to you!
+[2025-01-12 07:58] Bot: Hello, Lata! My name is Shina. How can i help you today?
+[2025-01-12 07:58] User: when will the tea shop open?
+[2025-01-12 07:58] Bot: The college tea shop is open from 7AM to 9 PM.
+[2025-01-12 07:58] User: okay
+[2025-01-12 07:58] Bot: Anything more?
+[2025-01-12 07:58] User: no
+[2025-01-12 07:58] Bot: Let me know if there is anything i can help you with.
+[2025-01-12 07:58] User: bye
+[2025-01-12 07:58] Bot: Goodbye, Lata! It was wonderful talking to you!
+[2025-01-14 17:37] Bot: Hello, laTa! My name is Shubu. How can i help you today?
+[2025-01-14 17:37] User: tea
+[2025-01-14 17:37] Bot: The college tea shop is open from 7AM to 9 PM.
+[2025-01-14 17:37] User: biscuit?
+[2025-01-14 17:37] Bot: I'm still learning-bear with me!
+[2025-01-14 17:37] User: okay
+[2025-01-14 17:37] Bot: Anything more?
+[2025-01-14 17:37] User: no
+[2025-01-14 17:37] Bot: Let me know if there is anything i can help you with.
+[2025-01-14 17:37] User: okay
+[2025-01-14 17:37] Bot: Anything more?
+[2025-01-14 17:37] User: byw
+[2025-01-14 17:37] Bot: I
+[2025-01-14 17:37] User: bye
+[2025-01-14 17:37] Bot: Goodbye, laTa! It was wonderful talking to you!
+[2025-01-14 17:38] Bot: Hello, jk! My name is Shina. How can i help you today?
+[2025-01-14 17:38] User: bye
+[2025-01-14 17:38] Bot: Goodbye, jk! It was wonderful talking to you!
+[2025-01-15 09:21] Bot: Hello, sneha! My name is Lata. How can i help you today?
+[2025-01-15 09:22] User: nth
+[2025-01-15 09:22] Bot: Sorry, I don't have an answer for that!
+[2025-01-15 09:22] User: bye
+[2025-01-15 09:22] Bot: Goodbye, sneha! It was wonderful talking to you!
+[2025-01-15 09:27] Bot: Hello! How can I assist you today?
+[2025-01-15 09:29] Bot: Hello! How can I assist you today?
+[2025-01-15 09:29] Bot: Hello! How can I assist you today?
+[2025-01-15 09:30] Bot: Hello, sneha! My name is Josh. How can i help you today?
+[2025-01-15 09:30] User: tea
+[2025-01-15 09:30] Bot: The college tea shop is open from 7AM to 9 PM.
+[2025-01-15 09:30] User: okay
+[2025-01-15 09:30] Bot: Anything more?
+[2025-01-15 09:30] User: no
+[2025-01-15 09:30] Bot: Let me know if there is anything i can help you with.
+[2025-01-15 09:30] User: bye
+[2025-01-15 09:30] Bot: Goodbye, sneha! It was wonderful talking to you!

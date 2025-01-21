@@ -1,0 +1,18 @@
+[2025-01-15 13:27] Bot: Hello, smriti! My name is Sara. How can i help you today?
+[2025-01-15 13:27] User: when will ssd open?
+[2025-01-15 13:27] Bot: SSD is open all time for students, call for any query.
+[2025-01-15 13:27] User: okay
+[2025-01-15 13:27] Bot: Anything more?
+[2025-01-15 13:28] User: no
+[2025-01-15 13:28] Bot: Let me know if there is anything i can help you with.
+[2025-01-15 13:28] User: bye
+[2025-01-15 13:28] Bot: Goodbye, smriti! It was wonderful talking to you!
+[2025-01-15 16:03] Bot: Hello, sneha! My name is Josh. How can i help you today?
+[2025-01-15 16:03] User: when will tea shop open?
+[2025-01-15 16:03] Bot: The college tea shop is open from 7AM to 9 PM.
+[2025-01-15 16:03] User: okay
+[2025-01-15 16:03] Bot: Anything more?
+[2025-01-15 16:03] User: no
+[2025-01-15 16:03] Bot: Let me know if there is anything i can help you with.
+[2025-01-15 16:03] User: bye
+[2025-01-15 16:03] Bot: Goodbye, sneha! It was wonderful talking to you!
